@@ -1,0 +1,49 @@
+23.824 nA 
+insertion distance 143.7mm
+beam current 23.789 nA
+20kV
+
+create site
+scan image
+optimize pattern
+optimize solver
+check there are at least 9 bands, if 7, crap
+acquire map data, lasso, check settings that it step size 10
+start. 
+
+
+K24_7  is trash, charging crud
+K24_8 is going to be trashy charging crud all around 
+didn't run
+K24_10 crummy
+
+K24_14 has some kind of fiber on top crummy charging but otherwise ok. 
+K24_15 gross crummy bands of charging stuff on it. 
+K24_16 is crummy. no obvious charging issues though...
+the part of it with the FI seems ok
+K24_17 is crummy, charging. 
+K24_23 has a bunch of charging crud but part near FI is maybe ok
+K24_29 is crummy charging crap. 
+K24_26 is crummy charging, trash. 
+K24_25 not great but ok where the FI are. 
+K24_31 is not worth it not run it's got some awful charging crud on. 
+K24_32 is not crappy too. eapecially near the FI
+919_52 skipped it was grooooooss
+919_001 not great but ok where the FI are
+919_003, 002, 005,006 are too gross. too much charging crud, skipped. 
+
+On mount 2
+
+
+----6/17/24
+
+
+
+
+
+
+
+
+ 
+
+
