@@ -1,0 +1,26 @@
+919_66_D--Video Image--064
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	11:10:17 AM
+Start Date: 	Friday, June 7, 2024
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	919_66_D
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 100x / 0.75
+Objective Magnification: 	100
+Image Width [µm]: 	111.496
+Image Height [µm]: 	69.685
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	31.20
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	740.400
+Position Y [µm]: 	-2682.900
+Position Z [µm]: 	0.000

@@ -1,0 +1,45 @@
+Ne6--Video Stitch Foc--078
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	12:17:26 PM
+Start Date: 	Friday, June 7, 2024
+Duration: 	0h 54m 3s
+User Name: 	Witec
+Sample Name: 	Ne6
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 20x / 0.4
+Objective Magnification: 	20
+Image Width [µm]: 	17288.545
+Image Height [µm]: 	18521.044
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	0.00
+
+Illumination:
+Reflection Light [%]: 	1.02
+Transmission Light [%]: 	Off
+
+Focus Stacking Settings:
+Algorithm: 	Continuous Movement
+Number of Images: 	10
+Z Range [µm]: 	-73.000 - -18.000
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	989
+Size Y [Pixel]: 	1060
+
+Origin X [µm]: 	438.992
+Origin Y [µm]: 	288.933
+Origin Z [µm]: 	-77.230
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	3477
+Number of Stitching Images X: 	57
+Number of Stitching Images Y: 	61
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000
