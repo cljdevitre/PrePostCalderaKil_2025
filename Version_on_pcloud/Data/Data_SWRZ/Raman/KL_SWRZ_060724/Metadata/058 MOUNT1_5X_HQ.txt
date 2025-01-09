@@ -1,0 +1,40 @@
+Ne6--Video Stitch HQ--074
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	11:48:18 AM
+Start Date: 	Friday, June 7, 2024
+Duration: 	0h 9m 14s
+User Name: 	Witec
+Sample Name: 	Ne6
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 5x / 0.13
+Objective Magnification: 	5
+Image Width [µm]: 	26000.000
+Image Height [µm]: 	26000.000
+Camera Exposure [s]: 	1/41
+Camera Gain [dB]: 	0.00
+
+Illumination:
+Reflection Light [%]: 	1.00
+Transmission Light [%]: 	Off
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	8000
+Size Y [Pixel]: 	8000
+
+Origin X [µm]: 	9.177
+Origin Y [µm]: 	-8.734
+Origin Z [µm]: 	0.000
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	484
+Number of Stitching Images X: 	22
+Number of Stitching Images Y: 	22
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000

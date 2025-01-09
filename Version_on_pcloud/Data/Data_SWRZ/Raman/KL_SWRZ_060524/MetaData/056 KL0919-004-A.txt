@@ -1,0 +1,40 @@
+KL0919-004-A--Video Stitch HQ--061
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	1:05:12 PM
+Start Date: 	Wednesday, June 5, 2024
+Duration: 	0h 0m 17s
+User Name: 	Witec
+Sample Name: 	KL0919-004-A
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 5x / 0.13
+Objective Magnification: 	5
+Image Width [µm]: 	4876.725
+Image Height [µm]: 	4876.725
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	0.00
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	7.06
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	4301
+Size Y [Pixel]: 	4301
+
+Origin X [µm]: 	635.100
+Origin Y [µm]: 	-1486.800
+Origin Z [µm]: 	7.370
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	16
+Number of Stitching Images X: 	4
+Number of Stitching Images Y: 	4
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000
