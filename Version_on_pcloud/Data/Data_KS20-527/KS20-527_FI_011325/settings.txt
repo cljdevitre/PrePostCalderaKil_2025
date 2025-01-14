@@ -1,0 +1,8 @@
+meta_path=c:\Users\charl\Desktop\KS20-527_FI_011325\MetaData
+spectra_path=c:\Users\charl\Desktop\KS20-527_FI_011325\Spectra
+spectra_filetype=headless_txt
+prefix=True
+prefix_str=' '
+spectra_file_ext=.txt
+meta_file_ext=.txt
+TruPower=True

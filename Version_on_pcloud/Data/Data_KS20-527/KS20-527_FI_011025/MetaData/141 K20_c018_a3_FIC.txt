@@ -1,0 +1,26 @@
+K20_c018_a3_FIC--Video Image--153
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	5:58:48 PM
+Start Date: 	Friday, January 10, 2025
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	K20_c018_a3_FIC
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 100x / 0.75
+Objective Magnification: 	100
+Image Width [µm]: 	109.989
+Image Height [µm]: 	68.743
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	28.00
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	3138.500
+Position Y [µm]: 	5324.800
+Position Z [µm]: 	0.000
