@@ -1,5 +1,5 @@
-meta_path=c:\Users\charl\Desktop\KS24-628\K24-628_011725\MetaData
-spectra_path=c:\Users\charl\Desktop\KS24-628\K24-628_011725\Spectra
+meta_path=c:\Users\charl\Documents\Python dev\PrePostCalderaKil_2025\Version_on_pcloud\Data\Data_KS24-628\K24-628_011725\MetaData
+spectra_path=c:\Users\charl\Documents\Python dev\PrePostCalderaKil_2025\Version_on_pcloud\Data\Data_KS24-628\K24-628_011725\Spectra
 spectra_filetype=headless_txt
 prefix=True
 prefix_str=' '
