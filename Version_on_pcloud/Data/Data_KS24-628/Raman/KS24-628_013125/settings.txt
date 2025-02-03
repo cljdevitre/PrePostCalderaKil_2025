@@ -1,0 +1,8 @@
+meta_path=/Users/cljd/Documents/Python_dev/PrePostCalderaKil_2025/Version_on_pcloud/Data/Data_KS24-628/Raman/KS24-628_013125/MetaData
+spectra_path=/Users/cljd/Documents/Python_dev/PrePostCalderaKil_2025/Version_on_pcloud/Data/Data_KS24-628/Raman/KS24-628_013125/Spectra
+spectra_filetype=headless_txt
+prefix=True
+prefix_str=' '
+spectra_file_ext=.txt
+meta_file_ext=.txt
+TruPower=True
